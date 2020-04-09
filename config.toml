@@ -1,4 +1,4 @@
-baseurl = "https://rhidayat1980.github.io/blog"
+baseurl = "https://rhidayat1980.github.io"
 title = "my personal blog"
 theme = "ghostwriter"
 languageCode = "en-us"
@@ -6,7 +6,7 @@ copyright = "rhidayat"
 disqusShortname = "XXX"
 googleAnalytics = "XXX"
 
-publishDir = "blog"
+publishDir = "docs"
 
 [Privacy]
 
