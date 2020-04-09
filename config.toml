@@ -6,7 +6,7 @@ copyright = "rhidayat"
 disqusShortname = "XXX"
 googleAnalytics = "XXX"
 
-publishDir = "docs"
+publishDir = "blog"
 
 [Privacy]
 
@@ -59,7 +59,7 @@ publishDir = "docs"
     post = "/:year/:month/:day/:filename/"
 
 [[menu.main]]
-    name = "blog"
+    name = "/"
     url = "/"
     weight = 1
 
