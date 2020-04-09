@@ -1,4 +1,4 @@
-baseurl = "https://rhidayat1980.github.io/blog/"
+baseurl = "https://rhidayat1980.github.io/"
 title = "my personal blog"
 theme = "ghostwriter"
 languageCode = "en-us"
@@ -59,7 +59,7 @@ publishDir = "blog"
     post = "/:year/:month/:day/:filename/"
 
 [[menu.main]]
-    name = "blog"
+    name = "Blog"
     url = "/"
     weight = 1
 
