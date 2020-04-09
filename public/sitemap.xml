@@ -3,63 +3,152 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://r.hidayat1980.github.io/blog/about/</loc>
-    <lastmod>2020-04-09T18:04:39+08:00</lastmod>
+    <loc>https://rhidayat1980.github.io/about/</loc>
+    <lastmod>2020-04-09T18:01:36+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://r.hidayat1980.github.io/blog/</loc>
-    <lastmod>2020-04-09T18:48:18+08:00</lastmod>
+    <loc>https://rhidayat1980.github.io/</loc>
+    <lastmod>2020-04-09T18:01:36+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://r.hidayat1980.github.io/blog/categories/</loc>
-    <lastmod>2020-04-09T18:48:18+08:00</lastmod>
+    <loc>https://rhidayat1980.github.io/categories/</loc>
+    <lastmod>2020-04-09T18:01:27+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://r.hidayat1980.github.io/blog/tags/hello-word/</loc>
-    <lastmod>2020-04-09T18:48:02+08:00</lastmod>
+    <loc>https://rhidayat1980.github.io/tags/hello-word/</loc>
+    <lastmod>2020-04-09T18:01:27+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://r.hidayat1980.github.io/blog/posts/janji-untuk-ujian-kubernetes/</loc>
-    <lastmod>2020-04-09T18:48:18+08:00</lastmod>
+    <loc>https://rhidayat1980.github.io/posts/janji-untuk-ujian-kubernetes/</loc>
+    <lastmod>2020-04-09T18:01:27+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://r.hidayat1980.github.io/blog/tags/kubernetes/</loc>
-    <lastmod>2020-04-09T18:48:18+08:00</lastmod>
+    <loc>https://rhidayat1980.github.io/tags/kubernetes/</loc>
+    <lastmod>2020-04-09T18:01:27+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://r.hidayat1980.github.io/blog/categories/kubernetes/</loc>
-    <lastmod>2020-04-09T18:48:18+08:00</lastmod>
+    <loc>https://rhidayat1980.github.io/categories/kubernetes/</loc>
+    <lastmod>2020-04-09T18:01:27+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://r.hidayat1980.github.io/blog/posts/post-pertama-di-era-corona/</loc>
-    <lastmod>2020-04-09T18:48:02+08:00</lastmod>
+    <loc>https://rhidayat1980.github.io/posts/post-pertama-di-era-corona/</loc>
+    <lastmod>2020-04-09T18:01:27+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://r.hidayat1980.github.io/blog/posts/</loc>
-    <lastmod>2020-04-09T18:48:18+08:00</lastmod>
+    <loc>https://rhidayat1980.github.io/post/</loc>
+    <lastmod>2020-04-09T18:01:27+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://r.hidayat1980.github.io/blog/tags/</loc>
-    <lastmod>2020-04-09T18:48:18+08:00</lastmod>
+    <loc>https://rhidayat1980.github.io/tags/</loc>
+    <lastmod>2020-04-09T18:01:27+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://r.hidayat1980.github.io/blog/tags/unknown/</loc>
-    <lastmod>2020-04-09T18:48:02+08:00</lastmod>
+    <loc>https://rhidayat1980.github.io/tags/unknown/</loc>
+    <lastmod>2020-04-09T18:01:27+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://r.hidayat1980.github.io/blog/categories/unknown/</loc>
-    <lastmod>2020-04-09T18:48:02+08:00</lastmod>
+    <loc>https://rhidayat1980.github.io/categories/unknown/</loc>
+    <lastmod>2020-04-09T18:01:27+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rhidayat1980.github.io/page/about/</loc>
+    <lastmod>2015-04-03T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rhidayat1980.github.io/page/contact/</loc>
+    <lastmod>2015-04-03T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rhidayat1980.github.io/page/</loc>
+    <lastmod>2015-04-03T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rhidayat1980.github.io/project/my-awesome-project/</loc>
+    <lastmod>2014-11-18T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rhidayat1980.github.io/project/</loc>
+    <lastmod>2014-11-18T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rhidayat1980.github.io/2014/09/28/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rhidayat1980.github.io/2014/04/02/goisforlovers/</loc>
+    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rhidayat1980.github.io/tags/development/</loc>
+    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rhidayat1980.github.io/tags/go/</loc>
+    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rhidayat1980.github.io/tags/golang/</loc>
+    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rhidayat1980.github.io/2014/04/02/migrate-from-jekyll/</loc>
+    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rhidayat1980.github.io/tags/templates/</loc>
+    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rhidayat1980.github.io/tags/themes/</loc>
+    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rhidayat1980.github.io/categories/development/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rhidayat1980.github.io/2014/04/02/hugoisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rhidayat1980.github.io/categories/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rhidayat1980.github.io/tags/hugo/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rhidayat1980.github.io/series/</loc>
   </url>
   
 </urlset>
