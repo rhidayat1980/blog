@@ -6,6 +6,8 @@ copyright = "rhidayat"
 disqusShortname = "XXX"
 googleAnalytics = "XXX"
 
+publishDir = "public"
+
 [Privacy]
 
 [Privacy.disqus]
