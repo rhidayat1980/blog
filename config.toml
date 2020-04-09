@@ -59,7 +59,7 @@ publishDir = "docs"
     post = "/:year/:month/:day/:filename/"
 
 [[menu.main]]
-    name = "Blog"
+    name = "blog"
     url = "/"
     weight = 1
 
