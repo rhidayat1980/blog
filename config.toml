@@ -6,7 +6,7 @@ copyright = "rhidayat"
 disqusShortname = "XXX"
 googleAnalytics = "XXX"
 
-publishDir = "pages"
+publishDir = "blog"
 
 [Privacy]
 
