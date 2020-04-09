@@ -8,11 +8,6 @@
   </url>
   
   <url>
-    <loc>https://rhidayat1980.github.io/</loc>
-    <lastmod>2020-04-09T18:01:27+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://rhidayat1980.github.io/tags/hello-word/</loc>
     <lastmod>2020-04-09T18:01:27+08:00</lastmod>
   </url>
@@ -29,6 +24,11 @@
   
   <url>
     <loc>https://rhidayat1980.github.io/categories/kubernetes/</loc>
+    <lastmod>2020-04-09T18:01:27+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rhidayat1980.github.io/</loc>
     <lastmod>2020-04-09T18:01:27+08:00</lastmod>
   </url>
   
