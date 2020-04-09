@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ghostwriter example</title>
-    <link>https://rhidayat1980.github.io/</link>
+    <link>https://rhidayat1980.github.io/blog/</link>
     <description>Recent content on Ghostwriter example</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>rhidayat</copyright>
     <lastBuildDate>Thu, 09 Apr 2020 18:01:36 +0800</lastBuildDate>
     
-	<atom:link href="https://rhidayat1980.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rhidayat1980.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Janji untuk ujian kubernetes</title>
-      <link>https://rhidayat1980.github.io/posts/janji-untuk-ujian-kubernetes/</link>
+      <link>https://rhidayat1980.github.io/blog/posts/janji-untuk-ujian-kubernetes/</link>
       <pubDate>Thu, 09 Apr 2020 18:01:27 +0800</pubDate>
       
-      <guid>https://rhidayat1980.github.io/posts/janji-untuk-ujian-kubernetes/</guid>
+      <guid>https://rhidayat1980.github.io/blog/posts/janji-untuk-ujian-kubernetes/</guid>
       <description>Bulan maret lalu saya janji sama istri mau kelarin ujian kubernetes, ada 2 track rencananya. Kenyataannya sampai hari ini saya belum kelar-kelar juga belajar CKAD ini, padahal ini adalah track yang sangat mudah seharusnya.
 Buat teman-teman yang tertarik ingin tau tentang apa itu CKAD bisa lihat ke alamat ini https://www.cncf.io/certification/ckad/
 Materi CKAD ini sebetulnya tidak seram-seram amat, kalau serius harusnya seminggu sudah bisa kelar dan dijamin bakalan lolos dengan sangat bagus.</description>
@@ -25,67 +25,67 @@ Materi CKAD ini sebetulnya tidak seram-seram amat, kalau serius harusnya semingg
     
     <item>
       <title>Post pertama di era corona</title>
-      <link>https://rhidayat1980.github.io/posts/post-pertama-di-era-corona/</link>
+      <link>https://rhidayat1980.github.io/blog/posts/post-pertama-di-era-corona/</link>
       <pubDate>Thu, 09 Apr 2020 18:01:27 +0800</pubDate>
       
-      <guid>https://rhidayat1980.github.io/posts/post-pertama-di-era-corona/</guid>
+      <guid>https://rhidayat1980.github.io/blog/posts/post-pertama-di-era-corona/</guid>
       <description>Ini adalah post pertama saya di blog baru ini. dibikin dengan alasan klise karena lagi bosen dan juga saya ingin supaya semua kerjaan dan hasil belajar saya selama ini bisa saya catat di blog ini.
 Sudah hampir sebulan ini kami bekerja dari rumah gara-gara pemerintah malaysia ngeluarin aturan MRO, semua unit bisnis yang tidak ada hubungan langsung dengan kebutuhan pokok kaya makanan di perintahkan untuk working from home.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://rhidayat1980.github.io/page/about/</link>
+      <link>https://rhidayat1980.github.io/blog/page/about/</link>
       <pubDate>Fri, 03 Apr 2015 02:13:50 +0000</pubDate>
       
-      <guid>https://rhidayat1980.github.io/page/about/</guid>
+      <guid>https://rhidayat1980.github.io/blog/page/about/</guid>
       <description>About Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec dolor in magna lobortis egestas. Suspendisse eu erat tempor, tristique neque eu, convallis nulla. Curabitur vel bibendum lacus, at semper mauris. Suspendisse aliquet commodo ex, sed sagittis metus aliquam id. Maecenas feugiat rutrum lorem vel imperdiet. Nullam ornare lectus ut enim finibus, et porttitor mi tincidunt. Aenean lacinia, leo quis vehicula eleifend, quam libero sagittis erat, at euismod augue mauris et sapien.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://rhidayat1980.github.io/page/contact/</link>
+      <link>https://rhidayat1980.github.io/blog/page/contact/</link>
       <pubDate>Fri, 03 Apr 2015 02:13:50 +0000</pubDate>
       
-      <guid>https://rhidayat1980.github.io/page/contact/</guid>
+      <guid>https://rhidayat1980.github.io/blog/page/contact/</guid>
       <description>Contact Aenean ipsum justo, semper eu nisl ut, pretium tincidunt sem. Praesent et diam sit amet lacus lobortis dictum a id lacus. Quisque hendrerit sit amet turpis eu varius. Ut id lorem ac felis ultrices tincidunt. Pellentesque consequat arcu ac fringilla imperdiet. Phasellus pellentesque, sapien non pulvinar blandit, sapien ante aliquet felis, vel porttitor sapien ante in lacus. Fusce non urna aliquet, malesuada nibh vel, luctus urna. Phasellus ut lacus molestie, varius purus quis, malesuada lorem.</description>
     </item>
     
     <item>
       <title>My awesome project</title>
-      <link>https://rhidayat1980.github.io/project/my-awesome-project/</link>
+      <link>https://rhidayat1980.github.io/blog/project/my-awesome-project/</link>
       <pubDate>Tue, 18 Nov 2014 02:13:50 +0000</pubDate>
       
-      <guid>https://rhidayat1980.github.io/project/my-awesome-project/</guid>
+      <guid>https://rhidayat1980.github.io/blog/project/my-awesome-project/</guid>
       <description>About project Aenean ipsum justo, semper eu nisl ut, pretium tincidunt sem. Praesent et diam sit amet lacus lobortis dictum a id lacus. Quisque hendrerit sit amet turpis eu varius. Ut id lorem ac felis ultrices tincidunt. Pellentesque consequat arcu ac fringilla imperdiet. Phasellus pellentesque, sapien non pulvinar blandit, sapien ante aliquet felis, vel porttitor sapien ante in lacus. Fusce non urna aliquet, malesuada nibh vel, luctus urna. Phasellus ut lacus molestie, varius purus quis, malesuada lorem.</description>
     </item>
     
     <item>
       <title>Creating a New Theme</title>
-      <link>https://rhidayat1980.github.io/2014/09/28/creating-a-new-theme/</link>
+      <link>https://rhidayat1980.github.io/blog/2014/09/28/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>https://rhidayat1980.github.io/2014/09/28/creating-a-new-theme/</guid>
+      <guid>https://rhidayat1980.github.io/blog/2014/09/28/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
       <title>(Hu)go Template Primer</title>
-      <link>https://rhidayat1980.github.io/2014/04/02/goisforlovers/</link>
+      <link>https://rhidayat1980.github.io/blog/2014/04/02/goisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 02:13:50 +0000</pubDate>
       
-      <guid>https://rhidayat1980.github.io/2014/04/02/goisforlovers/</guid>
+      <guid>https://rhidayat1980.github.io/blog/2014/04/02/goisforlovers/</guid>
       <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
 This document is a brief primer on using go templates.</description>
     </item>
     
     <item>
       <title>Migrating from Jekyll</title>
-      <link>https://rhidayat1980.github.io/2014/04/02/migrate-from-jekyll/</link>
+      <link>https://rhidayat1980.github.io/blog/2014/04/02/migrate-from-jekyll/</link>
       <pubDate>Wed, 02 Apr 2014 02:13:50 +0000</pubDate>
       
-      <guid>https://rhidayat1980.github.io/2014/04/02/migrate-from-jekyll/</guid>
+      <guid>https://rhidayat1980.github.io/blog/2014/04/02/migrate-from-jekyll/</guid>
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
@@ -93,10 +93,10 @@ This document is a brief primer on using go templates.</description>
     
     <item>
       <title>Getting Started with Hugo</title>
-      <link>https://rhidayat1980.github.io/2014/04/02/hugoisforlovers/</link>
+      <link>https://rhidayat1980.github.io/blog/2014/04/02/hugoisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://rhidayat1980.github.io/2014/04/02/hugoisforlovers/</guid>
+      <guid>https://rhidayat1980.github.io/blog/2014/04/02/hugoisforlovers/</guid>
       <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
 Save it somewhere specific as we will be using it in the next step.
 More complete instructions are available at installing hugo
