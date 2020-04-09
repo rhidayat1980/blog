@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>kubernetes on Ghostwriter example</title>
+    <title>kubernetes on my personal blog</title>
     <link>https://rhidayat1980.github.io/tags/kubernetes/</link>
-    <description>Recent content in kubernetes on Ghostwriter example</description>
+    <description>Recent content in kubernetes on my personal blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>rhidayat</copyright>
@@ -14,10 +14,10 @@
     
     <item>
       <title>Janji untuk ujian kubernetes</title>
-      <link>https://rhidayat1980.github.io/posts/janji-untuk-ujian-kubernetes/</link>
+      <link>https://rhidayat1980.github.io/2020/04/09/janji-untuk-ujian-kubernetes/</link>
       <pubDate>Thu, 09 Apr 2020 18:01:27 +0800</pubDate>
       
-      <guid>https://rhidayat1980.github.io/posts/janji-untuk-ujian-kubernetes/</guid>
+      <guid>https://rhidayat1980.github.io/2020/04/09/janji-untuk-ujian-kubernetes/</guid>
       <description>Bulan maret lalu saya janji sama istri mau kelarin ujian kubernetes, ada 2 track rencananya. Kenyataannya sampai hari ini saya belum kelar-kelar juga belajar CKAD ini, padahal ini adalah track yang sangat mudah seharusnya.
 Buat teman-teman yang tertarik ingin tau tentang apa itu CKAD bisa lihat ke alamat ini https://www.cncf.io/certification/ckad/
 Materi CKAD ini sebetulnya tidak seram-seram amat, kalau serius harusnya seminggu sudah bisa kelar dan dijamin bakalan lolos dengan sangat bagus.</description>
